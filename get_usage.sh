@@ -21,8 +21,8 @@ request_data='{
 }'
 
 # whether to login and/or save cookies
-login=0
-save_login=0
+login=1
+save_login=1
 save_login_file="duke_login.txt"
 load_login=1
 
