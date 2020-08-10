@@ -7,6 +7,6 @@ usage:
  * set where you want to save your login in `get_usage.sh`
  * set the meter number from [the duke energy usage analysis page](https://www.duke-energy.com/my-account/usage-analysis) in `get_usage.sh`
  * run `./get_usage.sh | tee usage.csv`
- * run `octave graph_data.m` to generate pretty graph `usage.png`
+ * run `octave graph_usage.m` to generate pretty graph `usage.png`
 
 ![usage.png](usage.png)
